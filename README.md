@@ -1,4 +1,4 @@
 # WeatherProject
 
--> react-native
--> expo
+1. react-native
+2. expo
